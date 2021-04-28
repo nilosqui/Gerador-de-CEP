@@ -9,3 +9,4 @@ depois disso,execute o
 
 
 node index.js
+e pronto, cep gerado!
